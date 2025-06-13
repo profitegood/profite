@@ -4,10 +4,6 @@
 
 <img height="35"  src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PROF1TE&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PROF1TE&layout=compact)
-
 
 
 
